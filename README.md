@@ -1,7 +1,7 @@
 # -IntegralSum
 several programs for laboratory work on matan
 
-Link to google drive with .exe file this App: https://drive.google.com/file/d/117spSWl54CV9QcfV1miD-5UjsXImslp_/view?usp=share_link
+Link to google drive with .exe file this App (all files are safe🫡): https://drive.google.com/file/d/117spSWl54CV9QcfV1miD-5UjsXImslp_/view?usp=share_link
 
 Some photo from App
 
